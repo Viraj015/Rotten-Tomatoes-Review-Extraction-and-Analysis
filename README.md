@@ -1,0 +1,3 @@
+# Rotten-Tomatoes-Review-Extraction-and-Analysis
+The goal of this program is to extract reviews from the rotten tomatoes website (if the  movie/review exists) for the movie the user enter, the user can search for as many movies  as they like and enter “DONE” to exit the program. The program will than print the top 5  and the bottom 5 reviews for the entered movie, generate a word cloud for the top 75%  reviews extracted and will also mention the overall prevalent sentiment of the movie. 
+[627c15140b9f49ef6a8a5630_EX09VirajReport.pdf](https://github.com/Viraj015/Rotten-Tomatoes-Review-Extraction-and-Analysis/files/9790833/627c15140b9f49ef6a8a5630_EX09VirajReport.pdf)
